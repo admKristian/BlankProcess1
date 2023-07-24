@@ -12,8 +12,10 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "sol&Sequence_1",
-        "result&Sequence_1"
+        "t&Sequence_2",
+        "result&Sequence_2",
+        "sol&Sequence_2",
+        "test&Sequence_2"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
